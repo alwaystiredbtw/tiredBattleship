@@ -1,0 +1,46 @@
+
+# # modo humano x computador.
+# Cada jogador deve ter um tabuleiro (matriz) de tamanho 5x10 (5 linhas e 10 colunas) que irá conter as 
+# informações das coordenadas de cada embarcação
+
+
+
+
+# criar funcao que crie tabuleiros 5x10 
+    # tabuleiro de posicao que nao vai ser mostrado
+    # tabuleiro de jogo que mostra acertos
+# criar funcao para posicionar barcos do jogador 
+    # criar lista de barcos para posicionar
+    # escolher tipo do barco
+    # escolher posicao horizontal/vertical
+    # confirmar selecao
+    # armazenar uma lista de cordenada com a lista de barcos e usar o metodo zip() para associa-las
+    # o passo acima sera necessario para criar uma condicao de destruicao dos barcos visto que eh necessario acertar varias vezes para afundar 
+# criar funcao para posicionar automaticamente barcos do computador  
+# criar funcao para conferir tiro 
+# criar funcao para computador jogar 
+    # atira em posicao aleatoria 
+    # se acertar proxima jogada atira numa posicao em um dos lados ou baixo/cima de forma aleatoria
+    # 
+#criar funcao para mostrar tabuleiro de acertos 
+#criar funcao para mostrar tabuleiro de jogo
+
+
+# funcionamento do jogo 
+
+# input do jogador 
+    # registro do tiro 
+    # verificacao 
+    # feedback
+# jogada do computador
+    # mesmo processo
+# condicao de vitoria 
+    # para um barco ser destruido ele precisa ser acertado em mais de 50% das casas ()
+    # vence quem destruir primeiro o barco do oponente
+
+
+
+
+
+# acerto = ["[x]"]
+# erro = ["[Ø]"]
